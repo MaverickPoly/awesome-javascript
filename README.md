@@ -1,6 +1,6 @@
 # Awesome JavaScript
 
-A curated list of awesome JavaScript frameworks, libraries, tools, and resources, focusing on modern, actively maintained projects across various domains.
+A curated list of awesome JavaScript frameworks, libraries, tools, and resources, focusing on modern and actively maintained projects across various domains.
 
 ## Contents
 
